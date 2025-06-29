@@ -36,3 +36,13 @@ The CW (Morse) Generator is a versatile and powerful application for Morse commu
 - **Audio Repetitions:** Choose how many times to repeat Morse audio.
 
 This software is an excellent resource for radio enthusiasts, emergency communication operators, Morse code apprentices, and anyone looking to explore Morse code interactively.
+
+---
+
+**Note**: Ensure that you have installed all the necessary dependencies before running the application.
+
+**Maintainer Update**
+
+My current GitHub account is **@bocaletto-luca**, which is now the official maintainer of all projects previously published under the **@Elektronoide** account. Please direct any issues, pull requests, or stars to **@bocaletto-luca** for future updates.
+
+---
