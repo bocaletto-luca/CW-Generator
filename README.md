@@ -2,7 +2,7 @@
 
 **Author:** Bocaletto Luca
 
-**Language:** Python
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu)](LICENSE) [![Language: Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/) [![Linux-Compatible](https://img.shields.io/badge/Linux-Compatible-blue?style=for-the-badge&logo=linux)](https://www.kernel.org/) [![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)](https://github.com/bocaletto-luca/Directory-Monitor)
 
 ## Description
 The CW (Morse) Generator is a versatile and powerful application for Morse communication enthusiasts and anyone interested in learning or practicing this classic language of communication. This software allows you to convert text to Morse code and vice versa, providing a complete suite of tools to create, interpret, and reproduce Morse signals with ease.
